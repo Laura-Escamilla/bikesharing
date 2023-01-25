@@ -6,7 +6,7 @@ For this project we performed an analysis working with data visualization softwa
 
 The idea for the project is to get investors for a bike share program for the city of Des Moines like Citi Bike in New York city. For this, we are using the data that Citi Bike have published so we can analyze the data and evaluate the option of applying the program in Des Moines.
 
-The visualizations from Tableau can be found here [link to dashboard](https://public.tableau.com/app/profile/laura8640/viz/Bike-Sharing-Story/Historia1)
+The visualizations from Tableau can be found here: [link to dashboard](https://public.tableau.com/app/profile/laura8640/viz/Bike-Sharing-Story/Historia1)
 
 ## Results: 
 
